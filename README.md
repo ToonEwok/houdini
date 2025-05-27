@@ -13,7 +13,7 @@ To assemble you will need:
 - 4x choc v1 switches  
 - 4x choc v1 hotswaps (PG1350)  
 - 6x M2x4MM screws  
-- 6x M2 brass inserts, the dimensions of the ones I used are M2*3*3.5  
+- 6x M2 brass inserts, the dimensions of the ones I used are M2x3x3.5  
 - Really any wire, 22 AWG is the typical gauge for fight sticks  
 
 Lastly, if you are using this to plug directly into an existing wiring harness I recommend getting a female 2.54 pitch 5 pin connector and some 2.54 male-to-male pins (something like these - https://www.digikey.com/en/products/detail/harwin-inc/D01-9923246/3918909) that should allow you to plug into your existing harness with no issue.
