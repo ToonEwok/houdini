@@ -1,7 +1,7 @@
 The Houdini is a drop-in mixbox conversion for fight sticks with ~23.5MM holes for said stick (sanwa or hori will work off the top of my head).
 
 ### Note:  
-As of May 26, 2025 I am yet to get the PCB's printed and tested, if I would've known I was going to make this I would've waited before placing my order with the pcb manufacturer. At any rate this your disclaimer that this has not technically been tested only test fit, however I am 99.9% sure it will work and will be ordering a small batch the next I place an order for a bigger personal project I currently have.
+As of May 26, 2025 I am yet to get the PCB's printed and tested, if I would've known I was going to make this I would've waited before placing my order with the pcb manufacturer. At any rate this your disclaimer that this has not technically been tested only test fit, however I am 99.9% sure it will work and will be ordering a small batch the next time I place an order for a bigger personal project I currently have.
 
 To assemble you will need:
 
